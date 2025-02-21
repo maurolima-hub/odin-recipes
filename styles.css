@@ -1,4 +1,19 @@
+* {
+    font-size: 16px;
+}
+
 h1 {
     color: darkred;
-    font-size: 24;
+    font-size: 32px;
+}
+
+li {
+    list-style-type: circle;
+    font-family: Recursive, 'ia Writer Duo', sans-serif;
+    font-size: 16px;
+    color: gray;
+}
+
+a {
+    text-decoration: none;
 }
